@@ -43,6 +43,8 @@ A aplicação funciona da seguinte forma:
 
 ## Contribuições 🤝
 
+https://imers-o-dev-alura-flame.vercel.app/
+
 Contribuições são sempre bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
